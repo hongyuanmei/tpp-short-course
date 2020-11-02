@@ -1,16 +1,13 @@
-# tpp-short-course
-A short course on temporal point process and modeling irregular time series
+# Irregular Time Series & Temporal Point Processes
+A short course on modeling irregular time series with temporal point processes. 
 
 ## Prerequisite
 
-Install Conda or mini-Conda (faster to install)
-```
-
-```
+Install [Anaconda](https://www.anaconda.com/) (full) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html) (small & fast)
 
 Create a virtual environment in Conda
 ```
-conda create --name tppcourse
+conda create --name tppcourse python=3.8
 ```
 
 Activate your virtual environment
@@ -28,12 +25,14 @@ Install Ipython Kernel
 conda install -c anaconda ipykernel
 ```
 
-Put our virtual environment into Jupyter Notebook
+Put the virtual environment into Jupyter Notebook
 ```
 python -m ipykernel install --user --name=tppcourse
 ```
 
+## Lecture-1
+
 Open Jupyter Notebook
 ```
-jupyter notebook
+jupyter notebook lecture-1.ipynb
 ```
