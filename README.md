@@ -3,7 +3,7 @@ A short course on modeling irregular time series with temporal point processes.
 
 ## Prerequisite
 
-Install [Anaconda](https://www.anaconda.com/) (full) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html) (small & fast)
+Install [Anaconda](https://www.anaconda.com/) (full) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html) (small & fast to install)
 
 Create a virtual environment in Conda
 ```
