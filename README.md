@@ -36,3 +36,17 @@ Open Jupyter Notebook
 ```
 jupyter notebook lecture-1.ipynb
 ```
+
+## Lecture-2
+
+Open Jupyter Notebook
+```
+jupyter notebook lecture-2.ipynb
+```
+
+## Lecture-3
+
+Open Jupyter Notebook
+```
+jupyter notebook lecture-3.ipynb
+```
